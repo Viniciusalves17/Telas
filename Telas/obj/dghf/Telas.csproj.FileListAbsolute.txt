@@ -1,0 +1,11 @@
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\bin\dghf\Telas.exe.config
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\bin\dghf\Telas.exe
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\bin\dghf\MySql.Data.dll
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\dghf\Telas.FrmLogin.resources
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\dghf\Telas.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\dghf\Telas.View.FrmMenu.resources
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\dghf\Telas.View.User.resources
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\dghf\Telas.csproj.GenerateResource.Cache
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\dghf\Telas.exe
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\dghf\Telas.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\dghf\Telas.View.FrmCadastro.resources

@@ -1,0 +1,12 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Telas\Telas\bin\Debug\Telas.exe.config
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\Debug\Telas.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\Debug\Telas.FrmLogin.resources
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\Debug\Telas.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\Debug\Telas.csproj.GenerateResource.Cache
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\bin\Debug\Telas.exe
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\bin\Debug\Telas.pdb
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\Debug\Telas.exe
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\Debug\Telas.pdb
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\Debug\Telas.View.FrmMenu.resources
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\Debug\Telas.View.User.resources

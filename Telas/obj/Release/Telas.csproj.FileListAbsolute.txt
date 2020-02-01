@@ -1,0 +1,12 @@
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\bin\Release\Telas.exe.config
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\bin\Release\Telas.exe
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\bin\Release\Telas.pdb
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\bin\Release\MySql.Data.dll
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\Release\Telas.FrmLogin.resources
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\Release\Telas.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\Release\Telas.View.FrmMenu.resources
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\Release\Telas.View.User.resources
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\Release\Telas.csproj.GenerateResource.Cache
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\Release\Telas.exe
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\Release\Telas.pdb
+C:\Users\Aluno\documents\visual studio 2015\Projects\Telas\Telas\obj\Release\Telas.csprojResolveAssemblyReference.cache
